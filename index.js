@@ -5,7 +5,7 @@
 
 /////////// Metodos HTTP son los que permiten el CRUD:
 
-// // GET     leer
+// // GET     leer   // PARA EL TP SOLO VAMOS A USAR GET
 // // POST    crear
 // // PUT      modificar
 // // PATCH   modificar
